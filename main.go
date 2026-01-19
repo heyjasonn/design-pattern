@@ -1,7 +1,7 @@
 package main
 
-import "github.com/heyjasonn/design-pattern/factory"
+import "github.com/heyjasonn/design-pattern/builder"
 
 func main() {
-	factory.Main()
+	builder.Main()
 }
