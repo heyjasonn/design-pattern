@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/heyjasonn/design-pattern/composite"
+	"github.com/heyjasonn/design-pattern/facade"
 )
 
 func main() {
-	composite.Main()
+	facade.Main()
 }
