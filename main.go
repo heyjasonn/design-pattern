@@ -1,7 +1,7 @@
 package main
 
-import "github.com/heyjasonn/design-pattern/memento"
+import "github.com/heyjasonn/design-pattern/observer"
 
 func main() {
-	memento.Main()
+	observer.Main()
 }
