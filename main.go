@@ -1,7 +1,7 @@
 package main
 
-import "github.com/heyjasonn/design-pattern/observer"
+import "github.com/heyjasonn/design-pattern/visitor"
 
 func main() {
-	observer.Main()
+	visitor.Main()
 }
